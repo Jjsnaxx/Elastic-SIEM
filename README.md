@@ -26,4 +26,20 @@ My aim is to show:
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux VM</b> 
+- <b>Kali Linux VM</b>
+  
+<br />
+
+<h2>Creating an account with Elastic Cloud:</h2>
+<br />
+
+1. Navigate to [Elastic Cloud](https://cloud.elastic.co/login?redirectTo=%2Fhome) and create a free account (14-day free trial).
+2. Once you have created an account, navigate to the [portal](https://cloud.elastic.co/login?redirectTo=%2Fhome) and login.
+3. Start your free trial.
+4. Click on the 'Create Deployment', select 'Elasticsearch'.
+5. Click continue.
+
+<h2>Creating a Kali VM"</h2>
+<br />
+
+1.
