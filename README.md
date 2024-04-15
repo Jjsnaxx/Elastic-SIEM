@@ -1,7 +1,7 @@
-# ELASTIC-SIEM <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+# ELASTIC-SIEM 
 
 
-<h1>Building a SIEM using ELASTIC Defend</h1>
+<img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 
 
 <h2>Objective</h2>
