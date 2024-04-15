@@ -49,6 +49,6 @@ Note: Windows users will need to enable virtualization on their PCs to run a Vir
 3. Open Oracle VM Virtual Box Manager and click on "New".
 4. You can name the VM anything you like I just called mine "Elastic SIEM". Under ISO image find and select the Kali image you downloaded prior.
 5. Follow the prompts. The installation should be straightforward from here.
-6. If you're stuck somewhere follow this guide https://www.youtube.com/watch?v=kj1XHBNvLFc
 
-Note: Windows users will need to enable virtualization on their PCs to run a Virtual Machine. If you don't know how to do that follow this guide https://www.youtube.com/watch?v=LQIyowZMiY8
+
+
