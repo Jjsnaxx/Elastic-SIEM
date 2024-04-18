@@ -6,9 +6,9 @@
 
 <h2>Objective</h2>
 
-In this lab I will aim to build a SIEM using ELASTIC defend that will create alerts to the users email and show how to take action based off the alert.
+This lab is documenting how I create a SIEM using Elastic Cloud.
 
-My aim is to show:
+This lab will demonstrate:
 
 1. How to set-up and install a virtual machine and install Kali.
 2. How to create an account with Elastic Cloud.
